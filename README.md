@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Authors and acknowledgment](#authors)
+* [Authors and acknowledgment](#authors-and-acknowledgment)
 
 ## General info
 
